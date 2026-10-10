@@ -92,5 +92,5 @@ A production version would require a backend, database, secure authentication, a
 
 **Project Name:** BookNest – Library Management System  
 **Project Type:** Front-End Web Application  
-**Purpose:** To simplify book discovery and demonstrate online library operations.
-**Team members:** Siddhi Borkar-24, Shravani Maske-23, Sonal Barai-25
+**Purpose:** To simplify book discovery and demonstrate online library operations
+**Team members:** Siddhi Borkar-24, Shravani Maske-23, Sonal Barai-25.
